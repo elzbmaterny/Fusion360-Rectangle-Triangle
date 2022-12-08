@@ -4,7 +4,7 @@ The Rectangle-Triangle application is used to create solids in Autodesk Fusion 3
 To create an object, select: rectangle, triangle or circle. After selecting rectangle or triangle a window with three input fields will appear. There you can enter dimensions of object. After selecting circle a window with two inputs will appear. 
 After pressing OK button, chosen solid will be displayed in active document.
 
-2. Screenshots
+2. Screenshots <br>
 ![rectr1](https://user-images.githubusercontent.com/119494322/206444237-b1cd0e32-24f5-4278-9cbc-7afb3b81ccf7.PNG)
 ![rectr2](https://user-images.githubusercontent.com/119494322/206444240-39bb4127-c749-461e-b016-0fed876d8c3a.PNG)
 ![rectr3](https://user-images.githubusercontent.com/119494322/206444242-fa0058b4-8c6b-497e-a304-f9ace3dd931f.PNG)
