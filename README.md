@@ -1,16 +1,17 @@
 # Fusion360-Rectangle-Triangle
-1. Description
+## Description
 The Rectangle-Triangle application is used to create solids in Autodesk Fusion 360
 To create an object, select: rectangle, triangle or circle. After selecting rectangle or triangle a window with three input fields will appear. There you can enter dimensions of object. After selecting circle a window with two inputs will appear. 
-After pressing OK button, chosen solid will be displayed in active document.
+After pressing OK button, chosen figure will be displayed in active document as 3D solid.
 
-2. Screenshots <br>
-![rectr1](https://user-images.githubusercontent.com/119494322/206444237-b1cd0e32-24f5-4278-9cbc-7afb3b81ccf7.PNG)
-![rectr2](https://user-images.githubusercontent.com/119494322/206444240-39bb4127-c749-461e-b016-0fed876d8c3a.PNG)
-![rectr3](https://user-images.githubusercontent.com/119494322/206444242-fa0058b4-8c6b-497e-a304-f9ace3dd931f.PNG)
-![rectr4](https://user-images.githubusercontent.com/119494322/206444244-d10645b3-309c-44a4-90e7-beb9c57d59ed.PNG)
-![rectr5](https://user-images.githubusercontent.com/119494322/206444246-0459a1f4-bd81-4b38-b7be-fd04593c24ad.PNG)
-![rectr6](https://user-images.githubusercontent.com/119494322/206444249-80d9ec13-28b8-4d1a-82da-9c2add0697c7.PNG)
-![rectr7](https://user-images.githubusercontent.com/119494322/206444250-f014e703-057e-4a72-a0df-9b517dedb78d.PNG)
-![rectr8](https://user-images.githubusercontent.com/119494322/206444254-61434314-25c4-4822-98e7-4752bdc7221d.PNG)
-![rectr9](https://user-images.githubusercontent.com/119494322/206444257-9b8799cf-e435-46c3-9ac0-14d286fc5717.PNG)
+## Screenshots
+### Add-in shown in Fusion360
+![rectr9](https://user-images.githubusercontent.com/119494322/206445829-2bf43cf2-77d1-4d23-b491-9348225e3e22.PNG)<br>
+![rectr2](https://user-images.githubusercontent.com/119494322/206446061-b6b8775c-7c61-48ca-bbbd-6133f0e59100.PNG)
+### Add-in Icon
+![rectr8](https://user-images.githubusercontent.com/119494322/206446144-90363af2-fb1f-4817-8e65-a39e8292cd3d.PNG)<br>
+![rectr1](https://user-images.githubusercontent.com/119494322/206446166-1320ef3c-8e50-40f5-9632-4fef7a49652b.PNG)
+### Output shown in Fusion360
+![rectr6](https://user-images.githubusercontent.com/119494322/206446311-c7bebe40-7b05-4078-9da0-4a1ba2b2f700.PNG)
+![rectr7](https://user-images.githubusercontent.com/119494322/206446322-78b5e209-5c4b-4ca4-843b-c69bde7b4ed2.PNG)
+![rectr5_50](https://user-images.githubusercontent.com/119494322/206446941-942cfb51-7d55-49dd-ac44-f11a82b24fd5.png)
