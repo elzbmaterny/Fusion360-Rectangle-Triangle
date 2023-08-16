@@ -1,5 +1,5 @@
 # Fusion360-Rectangle-Triangle
-###Information about project
+### Information about project
 This application was created using Python; you can find code: in: commands/commandDialog/(entry.py and logic.py)
 it's just a simple demonstration add-in
 
