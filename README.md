@@ -1,4 +1,8 @@
 # Fusion360-Rectangle-Triangle
+###Information about project
+This application was created using Python; you can find code: in: commands/commandDialog/(entry.py and logic.py)
+it's just a simple demonstration add-in
+
 ## Description
 The Rectangle-Triangle application is used to create solids in Autodesk Fusion 360
 To create an object, select: rectangle, triangle or circle. After selecting rectangle or triangle a window with three input fields will appear. There you can enter dimensions of object. After selecting circle a window with two inputs will appear. 
